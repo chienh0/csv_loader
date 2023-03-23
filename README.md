@@ -7,7 +7,7 @@ To create and test a Python script that can automatically load a CSV file into a
 <p float='left'>
   <img src='/logos/logo_excel.png' width='100' />
   <img src='/logos/logo_postgres.png' width='100' /> 
-  <img src='/logos/logo_python.png' width='100' />
+  <img src='/logos/logo_python.png' width='300' />
 </p>
 
 ### Steps
