@@ -1,15 +1,9 @@
 ## CVS Loader: Loading CSV files into local database using Python
 
 ### Project Goal 
-To create and test a Python script that can automatically load a CSV file into a local Postgresql database. The script will use a config file to pass through the input file path and the third-party pytest library to test.
+To create a Python script that can automatically load a CSV file into a local Postgresql database. The script will use a config file to pass through the input file path and the pytest library to test.
 
 ### Tech Stack
-<p float='left'>
-  <img src='/logos/logo_excel.png' width='170' style='margin-right: 200px;' />
-  <img src='/logos/logo_postgres.png' width='150' style='margin-right: 200px;' /> 
-  <img src='/logos/logo_python.png' width='130' />
-</p>
-
 <p float='left'>
   <img src='/logos/logo_excel.png' width='170' />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src='/logos/logo_postgres.png' width='150' />&nbsp;&nbsp;&nbsp;&nbsp; 
