@@ -5,8 +5,8 @@ To create and test a Python script that can automatically load a CSV file into a
 
 ### Tech Stack
 <p float='left'>
-  <img src='/logos/logo_excel.png' width='170' style='margin-right: 80px;' />
-  <img src='/logos/logo_postgres.png' width='150' style='margin-right: 80px;' /> 
+  <img src='/logos/logo_excel.png' width='170' style='margin-right: 200px;' />
+  <img src='/logos/logo_postgres.png' width='150' style='margin-right: 200px;' /> 
   <img src='/logos/logo_python.png' width='130' />
 </p>
 
