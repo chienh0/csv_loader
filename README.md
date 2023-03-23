@@ -10,6 +10,12 @@ To create and test a Python script that can automatically load a CSV file into a
   <img src='/logos/logo_python.png' width='130' />
 </p>
 
+<p float='left'>
+  <img src='/logos/logo_excel.png' width='170' />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='/logos/logo_postgres.png' width='150' />&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src='/logos/logo_python.png' width='130' />
+</p>
+
 ### Steps
 1. Install the necessary packages. To accomplish this, you can run the following command in your terminal: <code> pip install pandas psycopg2-binary
 2. 
