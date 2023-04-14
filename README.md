@@ -11,7 +11,6 @@ To create a Python script that can automatically load a CSV file into a local Po
 </p>
 
 ### Steps
-1. Install the necessary packages. To accomplish this, you can run the following command in your terminal: 
 ```python
 pip install pandas psycopg2-binary
 ```
