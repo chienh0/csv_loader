@@ -1,7 +1,5 @@
-from typing import List, Tuple
-from psycopg2.extensions import connection, cursor
-from csv_loader import load_csv_file, create_table, insert_data, get_db_connection
-from config import load_config_file
+from load_csv_helper import load_csv_file, create_table, insert_data, get_db_connection
+from load_config import load_config_file
 
 def main():
     # Load the configuration file
